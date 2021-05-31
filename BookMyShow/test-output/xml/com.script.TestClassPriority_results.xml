@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="10"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.045">
+  <properties />
+  
+  
+            <testcase name="seven" time="0.011" classname="com.script.TestClassPriority" />
+                <testcase name="c_method" time="0.002" classname="com.script.TestClassPriority" />
+                <testcase name="b_method" time="0.013" classname="com.script.TestClassPriority" />
+                <testcase name="test" time="0.002" classname="com.script.TestClassPriority" />
+                <testcase name="a_method" time="0.007" classname="com.script.TestClassPriority" />
+                <testcase name="ekmethod" time="0.002" classname="com.script.TestClassPriority" />
+                <testcase name="six" time="0.002" classname="com.script.TestClassPriority" />
+                <testcase name="eight" time="0.002" classname="com.script.TestClassPriority" />
+                <testcase name="d_method" time="0.001" classname="com.script.TestClassPriority" />
+                <testcase name="a" time="0.003" classname="com.script.TestClassPriority" />
+      
+</testsuite>
